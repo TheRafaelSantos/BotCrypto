@@ -1,0 +1,14 @@
+# Node
+node_modules/
+
+# Builds
+frontend/build/
+frontend/dist/
+
+# Logs
+*.log
+logs
+
+# Env (NUNCA versionar)
+.env
+**/.env
